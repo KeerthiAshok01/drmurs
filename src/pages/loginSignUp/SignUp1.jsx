@@ -109,7 +109,7 @@ export default function SignUp1() {
     event.preventDefault();
   };
 
-  const line1 = "Way to ZD!";
+  const line1 = "Way to Drmur!";
   const sentence = {
     hidden: { opacity: 1 },
     visible: {

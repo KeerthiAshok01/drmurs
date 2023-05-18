@@ -20,7 +20,7 @@ import { useDispatch } from "react-redux";
 import Loader from "../../components/main/Loader";
 import bg from "../../assets/images/bg.mp4";
 // import bg from "../../assets/images/zd-round.gif";
-import zd__round from "../../assets/images/zd__round.gif";
+import zd__round from "../../assets/images/zd__round.jpg";
 
 export default function Login() {
   const history = useHistory();
@@ -95,7 +95,7 @@ export default function Login() {
     event.preventDefault();
   };
 
-  const line1 = "Hello Zillionaire!";
+  const line1 = "Hello Drmur!";
   const sentence = {
     hidden: { opacity: 1 },
     visible: {
@@ -150,12 +150,12 @@ export default function Login() {
             <source src={bg} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
-          <img
-            src={zd__round}
-            width="80%"
-            className="position-absolute"
-            style={{ left: 100,top:40 }}
-          />
+            <img
+              src={zd__round}
+              width="20%"
+              className="position-absolute"
+              style={{ left: 150,top:80, borderRadius:"50%"}}
+            />
           {/* <video className="w-md-50 " id="video" autoPlay="autoplay" muted>
             <source src={zd__round} type="video/gif" />
             Your browser does not support the video tag.
@@ -241,7 +241,6 @@ export default function Login() {
                     type={values.showPassword ? "text" : "password"}
                     className="form-control mb-3 rounded-pill p-2"
                     style={{ borderColor: "#b442ff" }}
-                    type={values.showPassword ? "text" : "password"}
                     value={values.password}
                     onChange={(e) =>
                       setValues((pre) => ({

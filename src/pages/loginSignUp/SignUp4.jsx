@@ -14,7 +14,7 @@ import { useHistory } from "react-router-dom";
 import bgVideo from "../../assets/images/bg.mp4";
 import EditIcon from "@mui/icons-material/Edit";
 
-const line = "Way to ZD !";
+const line = "Way to Drmur!";
 const sentence = {
   hidden: { opacity: 1 },
   visible: {

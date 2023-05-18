@@ -17,7 +17,7 @@ import ArrowBackIosNewIcon from "@mui/icons-material/ArrowBackIosNew";
 import IconButton from "@mui/material/IconButton";
 import bgVideo from "../../assets/images/bg.mp4";
 
-const line1 = "Way to ZD !";
+const line1 = "Way to Drmur!";
 const sentence = {
   hidden: { opacity: 1 },
   visible: {

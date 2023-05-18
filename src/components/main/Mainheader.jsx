@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import zdlogo from "../../assets/images/zdlogo.gif";
+import zdlogo from "../../assets/images/zdlogo.png";
 import { logout } from "../../slices/userSlice";
 import { useDispatch, useSelector } from "react-redux";
 import { useHistory } from "react-router";
@@ -34,7 +34,7 @@ export default function Mainheader({ setIsOpen, isOpen, results, setResults }) {
         height: "4.5vh",
       }}
     >
-      <img src={zdlogo} width="80px"></img>
+      <img src={zdlogo} width="30px"></img>
       <SearchBox results={results} setResults={setResults} />
       <div className="d-flex">
         <Story isOpen={isOpen} setIsOpen={setIsOpen} />
