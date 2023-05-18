@@ -182,7 +182,7 @@ export default function SignUp1() {
               animate={{ opacity: 1 }}
               transition={{ delay: 3, ease: "easeInOut" }}
             >
-              JOIN OUR ZD FAMILY
+              JOIN OUR Drmurs FAMILY
             </motion.p>
             <motion.div
               initial={{ opacity: 0, x: -100 }}
