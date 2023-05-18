@@ -124,13 +124,13 @@ export default function DreamCommunity() {
                 the following details in the post events section without fail.
                 <ol>
                   <li>
-                    Event Winners (who joined throught zillion dreamz app, by
+                    Event Winners (who joined throught Drmurs app, by
                     mentioning them as #zillion-<em>eventname</em>-
                     <em>username</em> )
                   </li>
                   <li>Event cash prize/certificates(if any).</li>
                   <li>
-                    Event participants (who joined using zillion dreamz app) and
+                    Event participants (who joined using Drmurs app) and
                     their certificates/cash prize(if any).
                   </li>
                   <li>

@@ -5,14 +5,14 @@ export default function NavigationMap() {
     <div className="navi col-sm-12">
       <h4 className="text-center mx-5">Authentication</h4>
       <p className="text-center mx-5">
-        The log in screen lets you create a new zillion account. you can also
+        The log in screen lets you create a new Drmurs account. you can also
         select your field of interest. You can also recover password by tapping
         forgot password?(website/Android/ios)
       </p>
       <h4 className="text-center mx-5">Memoir</h4>
       <p className="text-center mx-5">
         Memoir lets you to post your content with captions by tapping (icon). To
-        post your content: Zillion dreamz website or zillion dreamz app for
+        post your content: Drmurs website or Drmurs app for
         Android and Iphone: 1. Tap (icon), you will be shown an empty post
         uploading box. 2. By tapping (plus icon) you will be shown a dialog box
         where you can select your image/video, click post. Your content will be
@@ -47,7 +47,7 @@ export default function NavigationMap() {
         event rules(optional), event poster, click create event.
         <li>
           <p>
-            2. ZILLION EVENTS You will be shown a list of events based on your
+            2. Drmurs EVENTS You will be shown a list of events based on your
             field of interests. On selecting the event, you will be shown the
             details about the events which are yet to be conducted. You can join
             by clicking register button.{" "}

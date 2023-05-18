@@ -43,7 +43,7 @@ export default function DataPolicy() {
         partners provide information about your activities off Iconic Dream
         Focus – including information about your device, websites you visit, the
         ads you see and how you use their services – whether or not you have an
-        Zillion Dreamz account. For example, a game developer could use our API
+        Drmurs account. For example, a game developer could use our API
         to tell us what games you play, or a business could tell us about a
         purchase you made in its shop. We also receive information about your
         online and offline actions and purchases from third-party data providers
@@ -54,10 +54,10 @@ export default function DataPolicy() {
         with any data. II. How do we use this information? We use the
         information that we have (subject to choices you make) as described
         below, and to provide and support the Iconic Dream Focus Products and
-        related services described in the Zillion Dreamz Terms. Here's how:
+        related services described in the Drmurs Terms. Here's how:
         Provide, personalise and improve our Products. We use the information we
         have to deliver our Products, including to personalise features and
-        content (including your Memoir, Zillion Dreamz Instant Moments(stories)
+        content (including your Memoir, Drmurs Instant Moments(stories)
         and ads) and make suggestions for you (such as groups or events you may
         be interested in or topics you may want to follow) on and off our
         Products. To create personalised Products that are unique and relevant
@@ -109,10 +109,9 @@ export default function DataPolicy() {
         Iconic Dream Focus, you select the audience for the post, such as a
         group, all of your friends, the public or a customised list of people.
         Public information can be seen by anyone, on or off our Products,
-        including if they don't have an account. This includes your Zillion
-        Dreamz username, any information you share with a public audience,
-        information in your public profile on Zillion Dreamz, and content you
-        share in. You, other people using Zillion Dreamz, and we can provide
+        including if they don't have an account. This includes your Drmur username, any information you share with a public audience,
+        information in your public profile on Drmurs, and content you
+        share in. You, other people using Drmurs, and we can provide
         access to or send public information to anyone on or off our Products,
         including in other Iconic Dream Focus Company Products, in search
         results or through tools and APIs. Public information can also be seen,
@@ -147,7 +146,7 @@ export default function DataPolicy() {
         statistics and insights that help people and businesses understand how
         people are engaging with their posts, listings, Pages, videos and other
         content on and off the Iconic Dream Focus Products. For example, Page
-        admins and Zillion Dreamz business profiles receive information about
+        admins and Drmurs business profiles receive information about
         the number of people or accounts who viewed, reacted to or commented on
         their posts, as well as aggregate demographic and other information that
         helps them understand interactions with their Page or account.
@@ -181,9 +180,9 @@ export default function DataPolicy() {
         legal requests. We share information with law enforcement or in response
         to legal requests in the circumstances outlined below. Learn more about
         how you can control the information about you that you or others share
-        with third-party partners in the Zillion Dreamz settings. IV. How do the
+        with third-party partners in the Drmurs settings. IV. How do the
         Iconic Dream Focus Companies work together? Iconic Dream Focus and
-        Zillion Dreamz share infrastructure, systems and technology with other
+        Drmurs share infrastructure, systems and technology with other
         Iconic Dream Focus Companies (which include Paarambariyam and AI) to
         provide an innovative, relevant, consistent and safe experience across
         all Iconic Dream Focus Company Products that you use. We also process
@@ -220,7 +219,7 @@ export default function DataPolicy() {
         Policy? We'll notify you before we make changes to this Policy and give
         you the opportunity to review the revised Policy before you choose to
         continue using our Products. VII. How to contact Iconic Dream Focus with
-        questions You can learn more about how privacy works on Zillion Dreamz.
+        questions You can learn more about how privacy works on Drmurs.
         If you have questions about this Policy, you can contact us as described
         below. You can contact us online or by writing to: Iconic Dream Focus,
         Inc. No. 1884/5, Anna Nagar 18th Main Road, Vasantham Colony 4th street,

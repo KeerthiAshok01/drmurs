@@ -9,25 +9,24 @@ export default function Help() {
       <h2 className="header " style={{ textAlign: "center" }}>
         Terms of Use
       </h2>
-      <p style={{}}>Welcome to Zillion Dreamz!</p>
+      <p style={{}}>Welcome to Drmurs!</p>
       <p>
-        These Terms of Use (or "Terms") govern your use of Zillion Dreamz,
+        These Terms of Use (or "Terms") govern your use of Drmurs,
         except where we expressly state that separate terms (and not these)
-        apply, and provide information about the Zillion Dreamz Service (the
-        "Service"), outlined below. When you create a Zillion Dreamz account or
-        use Zillion Dreamz, you agree to these Terms.
+        apply, and provide information about the Drmurs Service (the
+        "Service"), outlined below. When you create a Drmurs account or
+        use Drmurs, you agree to these Terms.
       </p>
       <p>
-        The Zillion Dreamz Service is one of the Iconic Dream Focus Products,
+        The Drmurs Service is one of the Iconic Dream Focus Products,
         provided to you by Iconic Dream Focus, Inc. These Terms of Use therefore
         constitute an agreement between you and Iconic Dream Focus, Inc
       </p>
       <p>
-        <h5>The Zillion Dreamz Service</h5>
-        We agree to provide you with the Zillion Dreamz Service. The Service
-        includes all of the Zillion Dreamz products, features, applications,
-        services, technologies and software that we provide to advance Zillion
-        Dreamz's mission: To bring you closer to the people and things you love.
+        <h5>The Drmurs Service</h5>
+        We agree to provide you with the Drmurs Service. The Service
+        includes all of the Drmurs products, features, applications,
+        services, technologies and software that we provide to advance Drmurs's mission: To bring you closer to the people and things you love.
         The Service is made up of the following aspects:
       </p>
       <p>
@@ -41,9 +40,7 @@ export default function Help() {
         and what you and others care about, and use that information to help you
         create, find, join and share in experiences that matter to you. Part of
         that is highlighting content, features, offers and accounts that you
-        might be interested in, and offering ways for you to experience Zillion
-        Dreamz, based on things that you and others do on and off Zillion
-        Dreamz.
+        might be interested in, and offering ways for you to experience Drmurs, based on things that you and others do on and off Drmurs.
       </p>
       <p>
         <h5>Provide a safe environment.</h5>
@@ -69,11 +66,11 @@ export default function Help() {
         about.
       </h5>
       <p>
-        We use data from Zillion Dreamz and other Iconic Dream Focus Company
+        We use data from Drmurs and other Iconic Dream Focus Company
         Products, as well as from third-party partners, to show you ads, offers
         and other sponsored content that we believe will be meaningful to you.
         And we try to make that content as relevant as all your other
-        experiences on Zillion Dreamz
+        experiences on Drmurs
       </p>
       <h5> Research and innovation</h5>
       <p>
@@ -83,7 +80,7 @@ export default function Help() {
       </p>
       <h5>How our Service is funded</h5>
       <p>
-        Instead of paying to use Zillion Dreamz, by using the Service covered by
+        Instead of paying to use Drmurs, by using the Service covered by
         these Terms, you acknowledge that we can show you ads that businesses
         and organisations pay us to promote on and off the Iconic Dream Focus
         Company Products. We use your personal data, such as information about
@@ -94,13 +91,13 @@ export default function Help() {
         to see their ads. We then show their ad to people who might be
         interested. We also provide advertisers with reports about the
         performance of their ads to help them understand how people are
-        interacting with their content on and off Zillion Dreamz. For example,
+        interacting with their content on and off Drmurs. For example,
         we provide general demographic and interest information to advertisers
         to help them better understand their audience. We don't share
         information that directly identifies you (information such as your name
         or email address that by itself can be used to contact you or identifies
         who you are) unless you give us specific permission. You may see branded
-        content on Zillion Dreamz posted by account holders who promote products
+        content on Drmurs posted by account holders who promote products
         or services based on a commercial relationship with the business partner
         mentioned in their content.
       </p>
@@ -109,27 +106,26 @@ export default function Help() {
         Providing our Service requires collecting and using your information.
         The Data Policy explains how we collect, use and share information
         across the Iconic Dream Focus Products. It also explains the many ways
-        in which you can control your information, including in the Zillion
-        Dreamz privacy and security settings. You must agree to the Data Policy
-        to use Zillion Dreamz.
+        in which you can control your information, including in the Drmurs privacy and security settings. You must agree to the Data Policy
+        to use Drmurs.
       </p>
       <h5>Your commitments</h5>
       <p>
         In return for our commitment to provide the Service, we require you to
-        make the below commitments to us. Who can use Zillion Dreamz. We want
+        make the below commitments to us. Who can use Drmurs. We want
         our Service to be as open and inclusive as possible, but we also want it
         to be safe, secure and in accordance with the law. So, we need you to
-        commit to a few restrictions in order to be part of the Zillion Dreamz
+        commit to a few restrictions in order to be part of the Drmurs
         community. • You must be at least 13 years old or the minimum legal age
-        in your country to use Zillion Dreamz. • You must not be prohibited from
+        in your country to use Drmurs. • You must not be prohibited from
         receiving any aspect of our Service under applicable laws or engaging in
         payments-related Services if you are on an applicable denied party
         listing. • We must not have previously disabled your account for
         violation of law or any of our policies. • You must not be a convicted
-        sex offender. How you can't use Zillion Dreamz. Providing a safe and
+        sex offender. How you can't use Drmurs. Providing a safe and
         open Service for a broad community requires that we all do our part. •
         You can't impersonate others or provide inaccurate information. You
-        don't have to disclose your identity on Zillion Dreamz, but you must
+        don't have to disclose your identity on Drmurs, but you must
         provide us with accurate and up-to-date information (including
         registration information), which may include providing personal data.
         Also, you may not impersonate someone or something you aren't, and you
@@ -137,7 +133,7 @@ export default function Help() {
         permission. • You can't do anything unlawful, misleading or fraudulent
         or for an illegal or unauthorised purpose. • You can't violate (or help
         or encourage others to violate) these Terms or our policies, including
-        in particular the Zillion Dreamz Community Guidelines. • You can't do
+        in particular the Drmurs Community Guidelines. • You can't do
         anything to interfere with or impair the intended operation of the
         Service. This includes misusing any reporting, dispute or appeals
         channel, such as by making fraudulent or groundless reports or appeals.
@@ -147,8 +143,7 @@ export default function Help() {
         can't sell, licence or purchase any account or data obtained from us or
         our Service. This includes attempts to buy, sell or transfer any aspect
         of your account (including your username); solicit, collect or use login
-        credentials or badges of other users; or request or collect Zillion
-        Dreamz usernames, passwords or misappropriate access tokens. • You can't
+        credentials or badges of other users; or request or collect Drmurs usernames, passwords or misappropriate access tokens. • You can't
         post someone else's private or confidential information without
         permission or do anything that violates someone else's rights, including
         intellectual property rights (e.g. copyright infringement, trademark
@@ -183,7 +178,7 @@ export default function Help() {
       sponsored content that you follow or engage with that are displayed on
       Facebook Products, without any compensation to you. For example, we may
       show that you liked a sponsored post created by a brand that has paid us
-      to display its ads on Zillion Dreamz. As with actions on other content and
+      to display its ads on Drmurs. As with actions on other content and
       follows of other accounts, actions on sponsored content and follows of
       sponsored accounts can be seen only by people who have permission to see
       that content or follow. We will also respect your ad settings. • You agree
@@ -202,13 +197,13 @@ export default function Help() {
       extract source code from us. Content removal and disabling or terminating
       your account • We can remove any content or information that you share on
       the Service if we believe that it violates these Terms of Use, our
-      policies (including our Zillion Dreamz Community Guidelines) or we are
+      policies (including our Drmurs Community Guidelines) or we are
       permitted or required to do so by law. We can refuse to provide or stop
       providing all or part of the Service to you (including terminating or
       disabling your access to the Iconic Dream Focus Products and Iconic Dream
       Focus Company Products) immediately to protect our community or services,
       or if you create risk or legal exposure for us, violate these Terms of Use
-      or our policies (including our Zillion Dreamz Community Guidelines), if
+      or our policies (including our Drmurs Community Guidelines), if
       you repeatedly infringe other people's intellectual property rights, or
       where we are permitted or required to do so by law. We can also terminate
       or change the Service, remove or block content or information shared on
@@ -261,16 +256,16 @@ export default function Help() {
         {" "}
         ZD PARENT’S GUIDE
       </h2>
-      <h5>Why Zillion Dreamz?</h5>
+      <h5>Why Drmurs?</h5>
       <p>
-        Zillion Dreamz is a goal tracking app with free photo and video sharing
+        Drmurs is a goal tracking app with free photo and video sharing
         app facility on iPhone and Android. People can upload photos or videos
         to our service and share them with their followers or with a select
         group of friends. They can also view, comment and like posts shared by
-        their friends on Zillion Dreamz. Anyone 13 and older can create an
+        their friends on Drmurs. Anyone 13 and older can create an
         account by registering an email address and selecting a username
       </p>
-      <h5>Can I have access to my teen’s Zillion Dreamz account?</h5>
+      <h5>Can I have access to my teen’s Drmurs account?</h5>
       <p>
         We appreciate your concern for your child's use of our app, but
         unfortunately, we can't give you access to the account or take any
@@ -303,18 +298,18 @@ export default function Help() {
       </p>
       <p>
         <h5>The short</h5>
-        We want Zillion Dreamz to continue to be an authentic and safe place for
+        We want Drmurs to continue to be an authentic and safe place for
         inspiration and expression. Help us foster this community. Post only
         your own photos and videos, and always follow the law. Respect everyone
-        on Zillion Dreamz; don't spam people or post nudity.
+        on Drmurs; don't spam people or post nudity.
       </p>
       <h5>The long</h5>
       <p>
-        Zillion Dreamz is a reflection of our diverse community of cultures,
+        Drmurs is a reflection of our diverse community of cultures,
         ages and beliefs. We've spent a lot of time thinking about the different
         points of view that create a safe and open environment for everyone. We
         created the Community Guidelines so you can help us foster and protect
-        this amazing community. By using Zillion Dreamz, you agree to these
+        this amazing community. By using Drmurs, you agree to these
         guidelines and our Terms of Use. We're committed to these guidelines and
         we hope that you are too. Overstepping these boundaries may result in
         deleted content, disabled accounts or other restrictions. In some cases,
@@ -326,13 +321,13 @@ export default function Help() {
         you've taken or have the right to share.
       </p>
       <p>
-        As always, you own the content that you post on Zillion Dreamz. Remember
+        As always, you own the content that you post on Drmurs. Remember
         to post authentic content, and don't post anything that you've copied or
         collected from the Internet that you don't have the right to post. •
         Post photos and videos that are appropriate for a diverse audience. We
         know that there are times when people might want to share nude images
         that are artistic or creative in nature, but for a variety of reasons,
-        we don't allow nudity on Zillion Dreamz. This includes photos, videos
+        we don't allow nudity on Drmurs. This includes photos, videos
         and some digitally-created content that show sexual intercourse,
         genitals and close-ups of fully-nude buttocks. It also includes some
         photos of female nipples, but photos in the context of breastfeeding,
@@ -351,11 +346,11 @@ export default function Help() {
         comments or other engagement. Don't post content that engages in,
         promotes, encourages, facilitates or admits to the offering,
         solicitation or trade of fake and misleading user reviews or ratings.
-        You don't have to use your real name on Zillion Dreamz, but we do
-        require Zillion Dreamz users to provide us with accurate and up-to-date
+        You don't have to use your real name on Drmurs, but we do
+        require Drmurs users to provide us with accurate and up-to-date
         information. Don't impersonate others and don't create accounts for the
         purpose of violating our guidelines or misleading others. • Follow the
-        law. Zillion Dreamz is not a place to support or praise terrorism,
+        law. Drmurs is not a place to support or praise terrorism,
         organised crime or hate groups. Offering sexual services, buying or
         selling firearms, alcohol and tobacco products between private
         individuals, and buying or selling non-medical or pharmaceutical drugs
@@ -363,10 +358,10 @@ export default function Help() {
         co-ordinate the trade of, donate, gift or ask for non-medical drugs, as
         well as content that either admits to personal use (unless in the
         recovery context) or coordinates or promotes the use of non-medical
-        drugs. Zillion Dreamz also prohibits the sale of live animals between
+        drugs. Drmurs also prohibits the sale of live animals between
         private individuals, although brick-and-mortar shops may offer these
         sales. No one may coordinate poaching or selling of endangered species
-        or their parts. • Respect other members of the Zillion Dreamz community.
+        or their parts. • Respect other members of the Drmurs community.
         We want to foster a positive, diverse community. We remove content that
         contains credible threats or hate speech, content that targets private
         individuals to degrade or shame them, personal information meant to
@@ -383,7 +378,7 @@ export default function Help() {
         as well as threats of theft, vandalism and other financial harm. We
         carefully review reports of threats and consider many things when
         determining whether a threat is credible. • Maintain our supportive
-        environment by not glorifying self-injury. The Zillion Dreamz community
+        environment by not glorifying self-injury. The Drmurs community
         cares for each other, and is often a place where people facing difficult
         issues such as eating disorders, cutting or other kinds of self-injury
         come together to create awareness or find support. We try to do our part
@@ -394,23 +389,22 @@ export default function Help() {
         also remove content identifying victims or survivors of self-injury if
         the content targets them for attack or humour. •
         <h5> Be thoughtful when posting newsworthy events.</h5>
-        We understand that many people use Zillion Dreamz to share important and
+        We understand that many people use Drmurs to share important and
         newsworthy events. Some of these issues can involve graphic images.
-        Because so many different people and age groups use Zillion Dreamz, we
-        may remove videos of intense, graphic violence to make sure that Zillion
-        Dreamz stays appropriate for everyone. We understand that people often
+        Because so many different people and age groups use Drmurs, we
+        may remove videos of intense, graphic violence to make sure that Drmurs stays appropriate for everyone. We understand that people often
         share this kind of content to condemn, raise awareness or educate. If
         you do share content for these reasons, we encourage you to caption your
         photo with a warning about graphic violence. Sharing graphic images for
         sadistic pleasure or to glorify violence is never allowed.
         <h5>Help us keep the community strong:</h5>
         <p>
-          Each of us is an important part of the Zillion Dreamz community. If
+          Each of us is an important part of the Drmurs community. If
           you see something that you think may violate our guidelines, please
           help us by using our built-in reporting option. We have a global team
           that reviews these reports and works as quickly as possible to remove
           content that doesn't meet our guidelines. Even if you or someone you
-          know doesn't have a Zillion Dreamz account, you can still file a
+          know doesn't have a Drmurs account, you can still file a
           report. When you complete the report, try to provide as much
           information as possible, such as links, usernames and descriptions of
           the content, so we can find and review it quickly. We may remove
@@ -432,13 +426,12 @@ export default function Help() {
           Centre and Terms of Use.
         </p>
         Thank you for helping us create one of the best communities in the
-        world, The Zillion Dreamz Team
+        world, The Drmurs Team
         <h5>Data policy</h5>
         <p>
-          This Policy describes the information we process to support Zillion
-          Dreamz, Paarambariyam and other products and features offered by
+          This Policy describes the information we process to support Drmurs, Paarambariyam and other products and features offered by
           Iconic Dream Focus (Iconic Dream Focus Products or Products). You can
-          find additional tools and information in Zillion Dreamz settings.
+          find additional tools and information in Drmurs settings.
         </p>
         <h5>What kinds of information do we collect?</h5>
         <p>
@@ -518,7 +511,7 @@ export default function Help() {
           Iconic Dream Focus Login, our APIs and SDKs. These partners provide
           information about your activities off Iconic Dream Focus – including
           information about your device, websites you visit, the ads you see and
-          how you use their services – whether or not you have an Zillion Dreamz
+          how you use their services – whether or not you have an Drmurs
           account. For example, a game developer could use our API to tell us
           what games you play, or a business could tell us about a purchase you
           made in its shop. We also receive information about your online and
@@ -530,10 +523,10 @@ export default function Help() {
           any data. II. How do we use this information? We use the information
           that we have (subject to choices you make) as described below, and to
           provide and support the Iconic Dream Focus Products and related
-          services described in the Zillion Dreamz Terms. Here's how: Provide,
+          services described in the Drmurs Terms. Here's how: Provide,
           personalise and improve our Products. We use the information we have
           to deliver our Products, including to personalise features and content
-          (including your Memoir, Zillion Dreamz Instant Moments(stories) and
+          (including your Memoir, Drmurs Instant Moments(stories) and
           ads) and make suggestions for you (such as groups or events you may be
           interested in or topics you may want to follow) on and off our
           Products. To create personalised Products that are unique and relevant
@@ -587,10 +580,10 @@ export default function Help() {
           the audience for the post, such as a group, all of your friends, the
           public or a customised list of people. Public information can be seen
           by anyone, on or off our Products, including if they don't have an
-          account. This includes your Zillion Dreamz username, any information
+          account. This includes your Drmurs username, any information
           you share with a public audience, information in your public profile
-          on Zillion Dreamz, and content you share in. You, other people using
-          Zillion Dreamz, and we can provide access to or send public
+          on Drmurs, and content you share in. You, other people using
+          Drmurs, and we can provide access to or send public
           information to anyone on or off our Products, including in other
           Iconic Dream Focus Company Products, in search results or through
           tools and APIs. Public information can also be seen, accessed,
@@ -626,7 +619,7 @@ export default function Help() {
           statistics and insights that help people and businesses understand how
           people are engaging with their posts, listings, Pages, videos and
           other content on and off the Iconic Dream Focus Products. For example,
-          Page admins and Zillion Dreamz business profiles receive information
+          Page admins and Drmurs business profiles receive information
           about the number of people or accounts who viewed, reacted to or
           commented on their posts, as well as aggregate demographic and other
           information that helps them understand interactions with their Page or
@@ -661,9 +654,9 @@ export default function Help() {
           share information with law enforcement or in response to legal
           requests in the circumstances outlined below. Learn more about how you
           can control the information about you that you or others share with
-          third-party partners in the Zillion Dreamz settings. IV. How do the
+          third-party partners in the Drmurs settings. IV. How do the
           Iconic Dream Focus Companies work together? Iconic Dream Focus and
-          Zillion Dreamz share infrastructure, systems and technology with other
+          Drmurs share infrastructure, systems and technology with other
           Iconic Dream Focus Companies (which include Paarambariyam and AI) to
           provide an innovative, relevant, consistent and safe experience across
           all Iconic Dream Focus Company Products that you use. We also process
@@ -701,7 +694,7 @@ export default function Help() {
           changes to this Policy and give you the opportunity to review the
           revised Policy before you choose to continue using our Products. VII.
           How to contact Iconic Dream Focus with questions You can learn more
-          about how privacy works on Zillion Dreamz. If you have questions about
+          about how privacy works on Drmurs. If you have questions about
           this Policy, you can contact us as described below. You can contact us
           online or by writing to: Iconic Dream Focus, Inc. No. 1884/5, Anna
           Nagar 18th Main Road, Vasantham Colony 4th street, Chennai – 600040.

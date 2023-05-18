@@ -16,7 +16,7 @@ export default function Settings() {
     // ["QR code"],
     // ["Account Milieu"],
     ["Security & Privacy"],
-    [" ZD Centre"],
+    [" Drmurs Centre"],
   ];
 
   const values = [

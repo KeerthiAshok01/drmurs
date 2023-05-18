@@ -100,7 +100,7 @@ export default function NewsFeed() {
   const [data, setData] = useState([
     {
       dp: "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-      name: "Jayasurya",
+      name: "Keerthi Ashok",
       post: "https://www.pixelstalk.net/wp-content/uploads/2016/09/Desktop-Free-Wallpaper-3D-Nature-widescreen.jpg",
       username: "jass",
       postDate: "Jun 1",
@@ -114,16 +114,16 @@ export default function NewsFeed() {
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Gowtham",
+          user: "Goku",
           comment: "This is a comment just to display it!",
         },
       ],
     },
     {
       dp: "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-      name: "Raksha",
+      name: "Tanya",
       post: "https://cdn2.opendemocracy.net/media/images/Osbert_Lancaster.2e16d0ba.fill-1200x630.jpg",
-      username: "raksha",
+      username: "Tien",
       postDate: "Aug 16",
       caption: "Lorem ipsum eiusmod tempor.",
       reactions: "205K",
@@ -134,36 +134,36 @@ export default function NewsFeed() {
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Gowtham",
+          user: "Goku",
           comment: "This is a comment just to display it!",
         },
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "Kumar",
+          user: "Vegeta",
           comment:
             "This is a comment just to display it! This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "David",
+          user: "Piccollo",
           comment:
             "This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "Abdul",
+          user: "Picollo",
           comment: "This is a comment!",
         },
       ],
     },
     {
       dp: "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-      name: "Shirley",
+      name: "Bhavithra",
       post: "https://previews.123rf.com/images/iko/iko1409/iko140900116/31694000-studio-portrait-of-a-handsome-young-man-astonished-with-something.jpg",
-      username: "shirley",
+      username: "bhavi",
       postDate: "Nov 25",
       caption: "Lorem ipsum dolor sit amet, sed do eiusmod tempor.",
       reactions: "305K",
@@ -174,20 +174,20 @@ export default function NewsFeed() {
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "Gowtham",
+          user: "Goku",
           comment: "This is a comment just to display it!",
         },
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Kumar",
+          user: "Vegeta",
           comment:
             "This is a comment just to display it! This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "David",
+          user: "Gohan",
           comment:
             "This is a comment just to display it! This is a comment just to display it! ",
         },
@@ -195,9 +195,9 @@ export default function NewsFeed() {
     },
     {
       dp: "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-      name: "Subiksha",
+      name: "kavitha",
       post: null,
-      username: "subiksha",
+      username: "kavitha",
       postDate: "Mar 31",
       caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       reactions: "405K",
@@ -208,53 +208,53 @@ export default function NewsFeed() {
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Gowtham",
+          user: "Goku",
           comment: "This is a comment just to display it!",
         },
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Kumar",
+          user: "Vegeta",
           comment:
             "This is a comment just to display it! This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "David",
+          user: "Gohan",
           comment:
             "This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Abdul",
+          user: "Picollo",
           comment: "This is a comment!",
         },
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "Gowtham",
+          user: "Goku",
           comment: "This is a comment just to display it!",
         },
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "Kumar",
+          user: "Vegeta",
           comment:
             "This is a comment just to display it! This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
-          user: "David",
+          user: "Gohan",
           comment:
             "This is a comment just to display it! This is a comment just to display it! ",
         },
         {
           avatar:
             "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
-          user: "Abdul",
+          user: "Picollo",
           comment: "This is a comment!",
         },
       ],
@@ -305,43 +305,43 @@ export default function NewsFeed() {
   const Suggestions = () => {
     const [suggestions, setSuggestions] = useState([
       {
-        name: "Wilson Raj",
+        name: "Krillin",
         avatar:
           "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
         requested: false,
       },
       {
-        name: "Santhosh Simon",
+        name: "Roshi",
         avatar:
           "https://www.newsshare.in/wp-content/uploads/2017/04/Miniclip-8-Ball-Pool-Avatar-16.png",
         requested: false,
       },
       {
-        name: "John Kiran",
+        name: "Ginyu",
         avatar:
           "https://cdn.dribbble.com/users/1652973/screenshots/6508917/cartoon.k23.jpg",
         requested: false,
       },
       {
-        name: "Jaya surya",
+        name: "Cabba",
         avatar:
           "https://i.pinimg.com/736x/f4/a3/4e/f4a34ef7fd2f8d3a347a8c0dfb73eece.jpg",
         requested: false,
       },
       {
-        name: "Raksha",
+        name: "Tien",
         avatar:
           "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
         requested: false,
       },
       {
-        name: "Subiksha",
+        name: "kavitha",
         avatar:
           "https://avatoon.me/wp-content/uploads/2021/09/Cartoon-Pic-Ideas-for-DP-Profile11.png",
         requested: false,
       },
       {
-        name: "Shirley",
+        name: "Videl",
         avatar:
           "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/cf3851a824eee5981be13591f44bbd5f-1592046164/hitoridraws-prettyportrait-color/draw-your-dp-avatar-profile-pic-and-make-it-simple-and-cute.png",
         requested: false,
