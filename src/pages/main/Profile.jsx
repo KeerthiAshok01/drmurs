@@ -518,7 +518,7 @@ export default function Profile() {
           <p className="grey">
             {about
               ? about
-              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}
+              : "Embrace each day with gratitude, kindness, and a sense of adventure. Life is a beautiful journey, and every moment is an opportunity to create meaningful connections. Spread love, inspire others, and make a positive impact. Together, let's make this world a brighter place."}
             <br />
             <br />
           </p>
